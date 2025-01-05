@@ -4,17 +4,62 @@
 
 <p id="description">The E-commerce Sales Dashboard in Power BI provides insights into sales performance profit and customer behavior. It visualizes order trends regional sales and product performance to help businesses make data-driven decisions. Key features include real-time metrics profitability analysis and top-performing product tracking.</p>
 
-<p align="center"><img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow" alt="shields"><img src="https://img.shields.io/badge/Status-Complete-green" alt="shields"><img src="https://img.shields.io/badge/Tools-Excel-green" alt="shields"><img src="https://img.shields.io/github/last-commit/Shashankhuilgol/E-COMMERCE-SALES-DASHBOARD" alt="shields"></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow" alt="shields">
+  <img src="https://img.shields.io/badge/Status-Complete-green" alt="shields">
+  <img src="https://img.shields.io/badge/Tools-Excel-green" alt="shields">
+  <img src="https://img.shields.io/github/last-commit/Shashankhuilgol/E-COMMERCE-SALES-DASHBOARD" alt="shields"></p>
 
+<h2>Dashboard Image:</h2>
+
+![Dashboard image](https://github.com/user-attachments/assets/51a7bc72-2b1e-4827-81f6-2957c499fead)
+
+
+<h2>-> Dashboard Visuals:</h2>
+
+<p>1. Visual Descriptions – Add a section detailing the specific visuals in the dashboard:</p>
+
+<p>2. KPIs (Top Row) – Displays total sales profit quantity and average order value.</p>
+
+<p>3. Bar Chart (Amount by State) – Highlights the top-performing states with Gujarat leading.</p>
+
+<p>4. Pie Chart (Quantity by Category) – Shows category distribution (Apparel Electronics Furniture).</p>
+
+<p>5. Bar Chart (Profit by Month) – Visualizes monthly profit trends with notable losses in March August and December.</p>
+
+<p>6. Bar Chart (Amount by Customer) – Lists the highest-spending customers e.g. Karan Malhotra.</p>
+
+<p>7. Pie Chart (Payment Mode) – Depicts sales distribution by payment type (PayPal leads at 32%).</p>
+
+<p>8. Bar Chart (Profit by Sub-category) – Highlights sub-category performance with "Sofa" having the highest profit.</p>
+
+
+
+<h2>->Key Insights:</h2>
+
+<p>1. Sales Trends – Most sales occur in July while losses peak in August and December.</p>
+
+<p>2. Customer Analysis – Karan Malhotra is the top customer by sales volume.</p>
+
+<p>3. Product Category – Apparel leads in quantity but electronics show steady performance across sales.</p>
+
+<p>4. State Performance – Gujarat and Maharashtra are the highest-revenue states.</p>
+
+  
 <h2>Project Screenshots:</h2>
+<div style="display: flex; flex-wrap:wrap;">
 
-<img src="https://media-hosting.imagekit.io//fd80f40918e5410d/Screenshot%202025-01-05%20124428.png?Expires=1736234664&amp;Key-Pair-Id=K2ZIVPTIP2VGHC&amp;Signature=sHzrXvYtIc7yPb2sFzErkMqLqul4kB2cw3XhUrhQyBpbJHVj8C1j35o1JN0Tr8GQVTOI6BydqGVm9cGyKb0zTzsPfeR4fgVHuawgoEJesPf0~-3OCOKbzZePRXKbyMdLGmBSGHhm0PlV302TfOzb5xRTqWB784X1rQPBEyIy1ncyFSDngwryIaqbj65pfzM0q4k-ZcS5SaFpuDhtEGkIHLAVInmtEXolXS9K~oJwyog48i66YEWUTmwjiv-qpw5AAnFul-6HbSTicsNmRUpN6vAdwKoNWsi-UOzSlT9RDbQFWziT3g6of29aJ7koYlbkfUx7SvjrnpCi1fx2MwoOrQ__" alt="project-screenshot" width="400" height="400/">
+<div style="display: flex; flex-direction: column; margin-right: 20px; margin-bottom: 20px;">
+  <img src="https://media-hosting.imagekit.io//fd80f40918e5410d/Screenshot%202025-01-05%20124428.png?Expires=1736234664&amp;Key-Pair-Id=K2ZIVPTIP2VGHC&amp;Signature=sHzrXvYtIc7yPb2sFzErkMqLqul4kB2cw3XhUrhQyBpbJHVj8C1j35o1JN0Tr8GQVTOI6BydqGVm9cGyKb0zTzsPfeR4fgVHuawgoEJesPf0~-3OCOKbzZePRXKbyMdLGmBSGHhm0PlV302TfOzb5xRTqWB784X1rQPBEyIy1ncyFSDngwryIaqbj65pfzM0q4k-ZcS5SaFpuDhtEGkIHLAVInmtEXolXS9K~oJwyog48i66YEWUTmwjiv-qpw5AAnFul-6HbSTicsNmRUpN6vAdwKoNWsi-UOzSlT9RDbQFWziT3g6of29aJ7koYlbkfUx7SvjrnpCi1fx2MwoOrQ__" alt="project-screenshot" width="400" height="200/">
 
-<img src="https://media-hosting.imagekit.io//1be3afb74282411d/Screenshot%202025-01-05%20124600.png?Expires=1736234674&amp;Key-Pair-Id=K2ZIVPTIP2VGHC&amp;Signature=fJwTuUmKyTnSbgeG7ctsrUfVqKc7CH1GHqJHMPb9r9RLNFfxbWM5BOeqOIn01AZcWS8IM9LfgIUx-Oq~kd7h7fsTsy2ZyTw2Tbsvdjyd4GWtu37glfWMuataQxxYo0LsjZalcUW6LD88~gmL8VukOQbvl1R5ELJDCoTcuvWj5qX0OtE8e3c0hQB4UX68F6jbiLmXq1DmyOB0vuV4SrRIBq2mkx~DN~lxyutEyDXv12O2t6I3kboksW1ltV9G0nnhB3RldkEFkqSub~6iUF-voBFrKSTv7~5TD1H6892kkS8kfKmYy~-y5JHdkaMdTf2Ve8pbz6XrJFzmJb0J1hIAcg__" alt="project-screenshot" width="400" height="400/">
+<img src="https://media-hosting.imagekit.io//1be3afb74282411d/Screenshot%202025-01-05%20124600.png?Expires=1736234674&amp;Key-Pair-Id=K2ZIVPTIP2VGHC&amp;Signature=fJwTuUmKyTnSbgeG7ctsrUfVqKc7CH1GHqJHMPb9r9RLNFfxbWM5BOeqOIn01AZcWS8IM9LfgIUx-Oq~kd7h7fsTsy2ZyTw2Tbsvdjyd4GWtu37glfWMuataQxxYo0LsjZalcUW6LD88~gmL8VukOQbvl1R5ELJDCoTcuvWj5qX0OtE8e3c0hQB4UX68F6jbiLmXq1DmyOB0vuV4SrRIBq2mkx~DN~lxyutEyDXv12O2t6I3kboksW1ltV9G0nnhB3RldkEFkqSub~6iUF-voBFrKSTv7~5TD1H6892kkS8kfKmYy~-y5JHdkaMdTf2Ve8pbz6XrJFzmJb0J1hIAcg__" alt="project-screenshot" width="400" height="200/">
+</div>
 
-<img src="https://media-hosting.imagekit.io//653b80cf80fc4ff7/Screenshot%202025-01-05%20124722.png?Expires=1736234684&amp;Key-Pair-Id=K2ZIVPTIP2VGHC&amp;Signature=r80ojShNFm8CAWM-~JDbCT1zZEZ5c9X3bFpKwY102F2oNy3a2Yxm0DOdq3aUcGtHKHRPa7suAYuGc5SAriMK~nnNRoemv7IIFmMy0oXi8nA9iQnJGTTyZS4J4q3IT-MZ0ZXP2sb39U1fP5kreJUfylph5U9y6LFmt7naNZLo9ZKzFi7jCoZXK-hbTCNtrHYN8Xeu9ddLMy6oJ6xJNLYlvoZ3jYtFJbXEPIz~nIHmJ5C8GAU1j9RBB7ERWvL76CuRXyDEIMhvDMiOM83W-a2dp5DpQX-rdn0FjDD~c-MUPOWIT09DHLQi9vOGRxKd1Vn82-DCXcNtXEKEXt6ZvCy1ow__" alt="project-screenshot" width="400" height="400/">
+<div style="display: flex; flex-direction: column; margin-right: 20px; margin-bottom: 20px;">
+  <img src="https://media-hosting.imagekit.io//653b80cf80fc4ff7/Screenshot%202025-01-05%20124722.png?Expires=1736234684&amp;Key-Pair-Id=K2ZIVPTIP2VGHC&amp;Signature=r80ojShNFm8CAWM-~JDbCT1zZEZ5c9X3bFpKwY102F2oNy3a2Yxm0DOdq3aUcGtHKHRPa7suAYuGc5SAriMK~nnNRoemv7IIFmMy0oXi8nA9iQnJGTTyZS4J4q3IT-MZ0ZXP2sb39U1fP5kreJUfylph5U9y6LFmt7naNZLo9ZKzFi7jCoZXK-hbTCNtrHYN8Xeu9ddLMy6oJ6xJNLYlvoZ3jYtFJbXEPIz~nIHmJ5C8GAU1j9RBB7ERWvL76CuRXyDEIMhvDMiOM83W-a2dp5DpQX-rdn0FjDD~c-MUPOWIT09DHLQi9vOGRxKd1Vn82-DCXcNtXEKEXt6ZvCy1ow__" alt="project-screenshot" width="400" height="200/">
 
-<img src="https://media-hosting.imagekit.io//427808881e4849a3/Screenshot%202025-01-05%20124956.png?Expires=1736234692&amp;Key-Pair-Id=K2ZIVPTIP2VGHC&amp;Signature=X7~ml-7ViUDRuXJ5W1KoD3OQFvRxEpksyu-95gwK2nWUWyERu6gnKtu6QH4MxpuBjdRIJrBQtjSydmWI9czU9HJggrkixPAn7ausEQYGEw8fvcncmCg7AK3Kqu5wKDwBTexGMGICEojv1VZKNktn3GCWD-7~u3Q-BXtzLyAznZYtOlD~dUq~hOUpdAIy7hZ5mQ7mBz~bssGX7G2GdMgGCUeSqdpbNV9CigkzGhqObzC0ySE53ZG7UmLZunjX6pY4cwKRONrFIF~SlMHIX0NIVmOfiKnlLH-OPKzbIP0nscYTTjEkHjOj6qQlHCCm7HxIrHEyIaHzcDSXda4Fw5EW5w__" alt="project-screenshot" width="400" height="400/">
+  <img src="https://media-hosting.imagekit.io//427808881e4849a3/Screenshot%202025-01-05%20124956.png?Expires=1736234692&amp;Key-Pair-Id=K2ZIVPTIP2VGHC&amp;Signature=X7~ml-7ViUDRuXJ5W1KoD3OQFvRxEpksyu-95gwK2nWUWyERu6gnKtu6QH4MxpuBjdRIJrBQtjSydmWI9czU9HJggrkixPAn7ausEQYGEw8fvcncmCg7AK3Kqu5wKDwBTexGMGICEojv1VZKNktn3GCWD-7~u3Q-BXtzLyAznZYtOlD~dUq~hOUpdAIy7hZ5mQ7mBz~bssGX7G2GdMgGCUeSqdpbNV9CigkzGhqObzC0ySE53ZG7UmLZunjX6pY4cwKRONrFIF~SlMHIX0NIVmOfiKnlLH-OPKzbIP0nscYTTjEkHjOj6qQlHCCm7HxIrHEyIaHzcDSXda4Fw5EW5w__" alt="project-screenshot" width="400" height="200/">
+  </div>
 
   
   
